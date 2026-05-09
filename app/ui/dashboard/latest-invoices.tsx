@@ -33,7 +33,7 @@ export default async function LatestInvoices() {
                     width={32}
                     height={32}
                   />
-                  <div className="min-w-0">~
+                  <div className="min-w-0">
                     <p className="truncate text-sm font-semibold md:text-base">
                       {invoice.name}
                     </p>
